@@ -42,7 +42,7 @@ public class matrizDeNumeros {
                 }
                 System.out.printf("Números aleatorios asignados.\n");
                 break;
-              case '3':3
+              case '3':
                 for (i = 0; i < 3; i++) {
                     for (j = 0; j < 5; j++) {
                         numeros[i][j] = 0;
